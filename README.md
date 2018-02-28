@@ -6,10 +6,6 @@ Server setup - Authentication
 This project cover section 6 of the tutorial.
 
 
-### IMPORTANT
-
-This project was cloned from [StephenGrider/ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter)
-
 ### REQUIREMENTS
 * [Node js](https://nodejs.org/en/)
 * [Mongodb](https://www.mongodb.com/) 
